@@ -79,7 +79,7 @@ Make sure the backend is running at http://127.0.0.1:8000.
 | /api/books/recommend?title=BOOK_TITLE&n=6 | GET | Return content-based recommendations (default 6 books) |
 
 ## 📸 Screenshots
-![Output 1](images/Screenshot 2025-11-15 150731.png)
+![Output 1](images/o1.png)
 
 ## 💡 Usage
 1. View Top Books on the homepage.
