@@ -71,7 +71,7 @@ Open index.html in your browser.
 
 Make sure the backend is running at http://127.0.0.1:8000.
 
-🛠️ API Endpoints
+## 🛠️ API Endpoints
 Endpoint	Method	Description
 /api/books	GET	Returns top books for homepage (popularity-based)
 /api/books/search?query=QUERY	GET	Search books by title or author
@@ -80,16 +80,14 @@ Endpoint	Method	Description
 📸 Screenshots
 (Optional: Add screenshots of your UI here)
 
-💡 Usage
-View Top Books on the homepage.
+## 💡 Usage
+1. View Top Books on the homepage.
 
-Search a book using the search bar.
+2. Search a book using the search bar.
 
-Get Recommendations based on the first search result.
+3. Get Recommendations based on the search result.
 
-Click on book cards to explore more details (author, year, rating).
-
-📈 Future Improvements
+## 📈 Future Improvements
 Integrate user ratings for collaborative filtering.
 
 Add book descriptions or genres for better content-based recommendations.
@@ -100,9 +98,9 @@ Add pagination for search results.
 
 Deploy on Heroku / Vercel for live access.
 
-📌 License
+## 📌 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and distribute.
 
-🤝 Authors
+## 🤝 Author
 Raj Jaiswal
